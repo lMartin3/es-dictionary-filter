@@ -1,0 +1,22 @@
+{
+  "name": "es-dictionary-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lMartin3/es-dictionary-filter.git"
+  },
+  "author": "lMartin3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lMartin3/es-dictionary-filter/issues"
+  },
+  "homepage": "https://github.com/lMartin3/es-dictionary-filter#readme",
+  "dependencies": {
+    "linereader": "^1.1.0"
+  }
+}
