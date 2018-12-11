@@ -2,7 +2,7 @@ const fs = require('fs');
 const lineReader = require('readline');
 var words = [];
 var filtered = [];
-var abc = ["a", "á", "b", "c", "d", "e", "é", "f", "g", "h", "i", "í", "j", "k", "l", "m", "n", "ñ", "o", "ó", "p", "q", "r", "s", "t", "u", "ú", "w", "x", "y", "z"];
+var abc = ["a", "á", "b", "c", "d", "e", "é", "f", "g", "h", "i", "í", "j", "k", "l", "m", "n", "ñ", "o", "ó", "p", "q", "r", "s", "t", "u", "ú", "v", "w", "x", "y", "z"];
 
 //Search params
 p_wl = 3;
